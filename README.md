@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a Web Developer with Experience in React JS, HTML, CSS, JavaScript, TypeScript, Redux, Unit Testing and more.
+Creative, Dedicated professional with 3+ years of experience in Web Designing & Development. Developing User Interfaces that enhance the user experience through logical and innovative solutions.
 
 * 🌍  I'm based in Ahmedabad, India.
 * ✉️  You can contact me at [stavan4@gmail.com](mailto:stavan4@gmail.com)
